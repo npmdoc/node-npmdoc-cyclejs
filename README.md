@@ -1,6 +1,6 @@
 # npmdoc-cyclejs
 
-#### api documentation for  [cyclejs (v0.26.0)](https://cyclejs.github.io)  [![npm package](https://img.shields.io/npm/v/npmdoc-cyclejs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cyclejs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cyclejs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cyclejs)
+#### basic api documentation for  [cyclejs (v0.26.0)](https://cyclejs.github.io)  [![npm package](https://img.shields.io/npm/v/npmdoc-cyclejs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cyclejs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cyclejs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cyclejs)
 
 #### A fully reactive JavaScript framework for Human-Computer Interaction
 
@@ -61,7 +61,8 @@
         "url": "git+https://github.com/cyclejs/cycle-core.git"
     },
     "scripts": {},
-    "version": "0.26.0"
+    "version": "0.26.0",
+    "bin": {}
 }
 ```
 
